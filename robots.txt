@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://santandreudelpalomar.com/sitemap.xml
+Sitemap: https://santandreudepalomar.com/sitemap.xml
 
 # Google
 User-agent: Googlebot
