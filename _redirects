@@ -1,0 +1,14 @@
+# IMPORTANT: this file must be named exactly "_redirects" (no .txt extension) at the
+# repo root for Netlify to read it. The previous file was named "_redirects.txt", which
+# Netlify ignores completely — that's very likely why it had no effect on the live site.
+#
+# These 6 rules point Google's already-known (but never-indexed) neighbourhood URLs —
+# the ones referenced in this site's own JSON-LD "hasPart" list, and almost certainly
+# the "6 of 7 sitemap URLs not indexed" seen in Search Console — at the new real pages,
+# instead of leaving them as dead ends.
+/sagrera            /la-sagrera.html              301
+/bonpastor          /el-bon-pastor.html           301
+/baro-de-viver      /baro-de-viver.html           301
+/congres-indians    /congres-i-els-indians.html   301
+/navas              /navas.html                   301
+/trinitat-vella     /trinitat-vella.html          301
