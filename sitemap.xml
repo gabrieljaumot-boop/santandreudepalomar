@@ -1,18 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <!-- Única pàgina real de la web (SPA d'una sola URL) -->
-  <url>
-    <loc>https://santandreudepalomar.com/</loc>
-    <lastmod>2026-06-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://santandreudepalomar.com/og-image.jpg</image:loc>
-      <image:title>Sant Andreu de Palomar — Guia del barri-poble de Barcelona</image:title>
-    </image:image>
-  </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url><loc>https://santandreudepalomar.com/</loc><lastmod>2026-09-20</lastmod><changefreq>weekly</changefreq><priority>1.0</priority><image:image><image:loc>https://santandreudepalomar.com/og-image.jpg</image:loc></image:image></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-associacions.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-cultura.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-esports.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-historia.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-mercat.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-parcs.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-patrimoni.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-restaurants.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-serveis.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-transport.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver-urbanisme.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/baro-de-viver.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://santandreudepalomar.com/barris-districte-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://santandreudepalomar.com/calendari-festiu-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-associacions.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-cultura.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-esports.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-historia.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-mercat.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-parcs.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-patrimoni.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-restaurants.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-serveis.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-transport.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians-urbanisme.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/congres-i-els-indians.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-associacions.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-cultura.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-esports.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-historia.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-mercat.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-parcs.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-patrimoni.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-restaurants.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-serveis.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-transport.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor-urbanisme.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/el-bon-pastor.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://santandreudepalomar.com/faq-districte-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/gastronomia-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/identitat-andreuenca.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-associacions.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-cultura.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-esports.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-historia.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-mercat.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-parcs.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-patrimoni.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-restaurants.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-serveis.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-transport.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera-urbanisme.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/la-sagrera.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://santandreudepalomar.com/llibres-sobre-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-associacions.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-cultura.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-esports.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-historia.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-mercat.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-parcs.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-patrimoni.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-restaurants.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-serveis.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-transport.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas-urbanisme.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/navas.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://santandreudepalomar.com/on-viure-districte-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/personatges-il-lustres-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/premsa-mitjans-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/rutes-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-associacions.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-cultura.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-esports.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-historia.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-mercat.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-parcs.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-patrimoni.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-restaurants.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-serveis.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-transport.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-associacions.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-cultura.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-esports.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-historia.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-mercat.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-parcs.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-patrimoni.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-restaurants.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-serveis.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-transport.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella-urbanisme.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/trinitat-vella.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+<url><loc>https://santandreudepalomar.com/ue-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/un-dia-pel-districte.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/urbanisme-districte-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/es/</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://santandreudepalomar.com/en/</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.5</priority></url>
+<url><loc>https://santandreudepalomar.com/fabra-i-coats.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://santandreudepalomar.com/festa-major-sant-andreu.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://santandreudepalomar.com/sant-andreu-de-palomar-o-del-palomar.html</loc><lastmod>2026-09-20</lastmod><changefreq>yearly</changefreq><priority>0.6</priority></url>
+<url><loc>https://santandreudepalomar.com/sobre-aquesta-guia.html</loc><lastmod>2026-09-20</lastmod><changefreq>yearly</changefreq><priority>0.4</priority></url>
 </urlset>
