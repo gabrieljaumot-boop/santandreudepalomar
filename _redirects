@@ -12,3 +12,10 @@
 /congres-indians    /congres-i-els-indians.html   301
 /navas              /navas.html                   301
 /trinitat-vella     /trinitat-vella.html          301
+
+# URLs antigues del JSON-LD que Google havia descobert (donaven 404)
+/baron                  /baro-de-viver.html                 301
+/congres                /congres-i-els-indians.html         301
+/trinitat               /trinitat-vella.html                301
+/barris                 /barris-districte-sant-andreu.html  301
+/districte-sant-andreu  /barris-districte-sant-andreu.html  301
