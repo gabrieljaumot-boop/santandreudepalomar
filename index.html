@@ -2071,14 +2071,22 @@
 
 <link rel="stylesheet" href="/styles.css">
 <style>
-/* Fons de la portada */
-#portada{background:#0d1a33 url('/images/fons-portada.jpg') center top/cover fixed no-repeat;}
-#portada .site-header{background:linear-gradient(180deg,rgba(8,18,40,.30),rgba(8,18,40,.62))!important;}
+/* Fons de la portada: només a la capçalera */
+#portada .site-header{
+  background:linear-gradient(180deg,rgba(8,18,40,.55) 0%,rgba(8,18,40,.78) 100%),url('/images/fons-portada.jpg') center 30%/cover no-repeat;
+  padding-top:4.5rem;padding-bottom:3.25rem;
+}
+#portada .site-header::before{display:none;}
 #portada .site-header .nom-barri,#portada .site-header .header-eyebrow,#portada .site-header .header-subtitol,
-#portada .site-header .stat-num,#portada .site-header .stat-label{color:#fff!important;text-shadow:0 2px 12px rgba(0,0,0,.45);}
-#portada .lang-bar{background:rgba(255,255,255,.88)!important;}
-#portada .portada-intro,#portada .portada-seccions-titol,#portada .portada-graella,#portada #mapa-complet{background:rgba(250,246,238,.94)!important;}
-@media (max-width:900px),(hover:none){#portada{background-attachment:scroll;}}
+#portada .site-header .stat-num,#portada .site-header .stat-label{text-shadow:0 2px 14px rgba(0,0,0,.55);}
+/* Mapa complet de la guia: centrat i en columna */
+#search-fab{color:#fff!important;border-color:rgba(255,255,255,.3)!important;}
+#mapa-complet{max-width:980px;margin:0 auto;padding:3rem 1.5rem 3.5rem;}
+#mapa-complet .related-links{margin-top:2rem;padding-top:1.5rem;}
+#mapa-complet .related-links h2{font-size:1.15rem;background:none;padding:0;}
+#mapa-complet .related-links h2 a{color:var(--fosc);text-decoration:none;}
+#mapa-complet .related-links h2 a:hover{color:var(--vermell);}
+#mapa-complet .related-links ul{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));}
 </style>
 </head>
 <body>
