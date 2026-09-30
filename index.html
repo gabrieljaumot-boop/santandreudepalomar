@@ -2071,22 +2071,29 @@
 
 <link rel="stylesheet" href="/styles.css">
 <style>
-/* Fons de la portada: només a la capçalera */
-#portada .site-header{
-  background:linear-gradient(180deg,rgba(8,18,40,.55) 0%,rgba(8,18,40,.78) 100%),url('/images/fons-portada.jpg') center 30%/cover no-repeat;
-  padding-top:4.5rem;padding-bottom:3.25rem;
-}
+/* Portada: foto sencera a dalt, capçalera blava a sota */
+.hero-foto{position:relative;overflow:hidden;background:#0b1633;line-height:0;}
+.hero-foto::before{content:"";position:absolute;inset:-40px;background:url('/images/fons-portada.jpg') center/cover no-repeat;filter:blur(28px) brightness(.55);}
+.hero-foto img{position:relative;display:block;margin:0 auto;width:auto;height:auto;max-width:100%;max-height:82vh;}
+#portada .site-header{background:linear-gradient(180deg,#14265a 0%,#0b1633 100%);padding-top:2.75rem;padding-bottom:2.5rem;border-bottom:4px solid var(--groc);}
 #portada .site-header::before{display:none;}
-#portada .site-header .nom-barri,#portada .site-header .header-eyebrow,#portada .site-header .header-subtitol,
-#portada .site-header .stat-num,#portada .site-header .stat-label{text-shadow:0 2px 14px rgba(0,0,0,.55);}
-/* Mapa complet de la guia: centrat i en columna */
 #search-fab{color:#fff!important;border-color:rgba(255,255,255,.3)!important;}
-#mapa-complet{max-width:980px;margin:0 auto;padding:3rem 1.5rem 3.5rem;}
-#mapa-complet .related-links{margin-top:2rem;padding-top:1.5rem;}
-#mapa-complet .related-links h2{font-size:1.15rem;background:none;padding:0;}
-#mapa-complet .related-links h2 a{color:var(--fosc);text-decoration:none;}
-#mapa-complet .related-links h2 a:hover{color:var(--vermell);}
-#mapa-complet .related-links ul{grid-template-columns:repeat(auto-fill,minmax(180px,1fr));}
+
+/* Mapa complet: targetes per barri */
+#mapa-complet{max-width:1120px;margin:0 auto;padding:3rem 1.5rem 3.5rem!important;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:1.25rem;align-items:start;}
+#mapa-complet>.portada-seccions-titol,#mapa-complet>.intro-lead{grid-column:1/-1;}
+#mapa-complet>.intro-lead{margin-bottom:.5rem!important;max-width:640px;}
+#mapa-complet .related-links{margin:0;padding:1.3rem 1.4rem 1.4rem;background:var(--blanc);border:1px solid rgba(0,0,0,.07);border-top:4px solid var(--vermell);border-radius:10px;box-shadow:0 2px 12px rgba(24,16,10,.05);transition:box-shadow .2s;}
+#mapa-complet .related-links:hover{box-shadow:0 8px 26px rgba(24,16,10,.1);}
+#mapa-complet .related-links:nth-of-type(n+9){border-top-color:var(--blau);}
+#mapa-complet .related-links h2{font-family:'Playfair Display',serif;font-size:1.25rem;line-height:1.25;margin:0 0 .9rem;padding:0;background:none;color:var(--fosc);}
+#mapa-complet .related-links h2 a{display:inline;background:none;border:none;padding:0;font-size:inherit;color:var(--fosc);}
+#mapa-complet .related-links h2 a::after{content:" →";color:var(--vermell);}
+#mapa-complet .related-links h2 a:hover{color:var(--vermell);transform:none;box-shadow:none;}
+#mapa-complet .related-links ul{display:flex;flex-wrap:wrap;gap:.45rem;padding:0;margin:0;}
+#mapa-complet .related-links li a{display:inline-block;padding:.38rem .8rem;font-size:.82rem;line-height:1.3;background:var(--crema);border:1px solid transparent;border-radius:999px;color:var(--gris);}
+#mapa-complet .related-links li a:hover{background:#fff;border-color:var(--vermell);color:var(--vermell);transform:none;box-shadow:none;}
+@media(max-width:560px){#mapa-complet{grid-template-columns:1fr;padding:2rem 1rem 2.5rem!important;}}
 </style>
 </head>
 <body>
@@ -2113,6 +2120,7 @@
   <button class="lang-btn" onclick="setLang('es')" id="btn-es">ES</button>
   <button class="lang-btn" onclick="setLang('en')" id="btn-en">EN</button>
 </div>
+<div class="hero-foto"><img src="/images/fons-portada.jpg" width="1672" height="941" alt="Església de Sant Andreu de Palomar amb la bandera andreuenca — santandreudepalomar.com" fetchpriority="high"></div>
 <header class="site-header" onclick="anarA('portada')" role="banner" title="Tornar a l'inici">
     <div class="header-top">
       <img id="img-escut" alt="Escut de Sant Andreu de Palomar" class="header-escut">
